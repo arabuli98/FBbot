@@ -25,6 +25,302 @@ if($messageText == "როგორ ხარ?") {
     $answer = "მაგრად თავად?";
 }
 
+if($messageText == "თავად") {
+    $answer = "(y)";
+}
+
+if($messageText == "როგორ ხარ") {
+    $answer = "კარგად შენ? <3";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
 if($messageText == "") {
     $answer = "";
 }
