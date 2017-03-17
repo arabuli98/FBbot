@@ -77,12 +77,12 @@ if($messageText == "ვინ შეგქმნა?") {
     $answer = "OnWeb.Ge-ს ადმინმა";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ვინ არის ლუცი?") {
+    $answer = "ჩემი მეზობლის შვილი :D ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "რა კაცია ჯაჯანა") {
+    $answer = "არის რა არც იქით არის არც აქეთ";
 }
 
 if($messageText == "") {
