@@ -16,7 +16,7 @@ $senderId = $input['entry'][0]['messaging'][0]['sender']['id'];
 $messageText = $input['entry'][0]['messaging'][0]['message']['text'];
 
 
-$answer = "კაი ნუ ატრაკებ.";
+$answer = "შეცდომა! გაითვალისწინე რომ მე ვმუშაობ ბეტა რეჟიმში და ყველაფრის აღქმა მიჭირს! :) ";
 if($messageText == "გამარჯობა") {
     $answer = "ზდაროვა";
 }
