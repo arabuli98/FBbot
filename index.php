@@ -85,56 +85,56 @@ if($messageText == "რა კაცია ჯაჯანა") {
     $answer = "არის რა არც იქით არის არც აქეთ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "სად ხარ?") {
+    $answer = "აქა ვარ აქა";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "წახვედი?") {
+    $answer = "ვერ მოგართვი";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "სირო") {
+    $answer = "ვაიმეე სირს ვხედავ ჩემს წინ ზის ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ნუ მებლატავები") {
+    $answer = "არ დაიმსახურო ძმაო და არ გაგებლატავები";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == ":D") {
+    $answer = "რას მეღრიჭები ყველის ვაჭარივით :D ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == ":)") {
+    $answer = "აუ ეგ სწერვა სიფათი შენ მეგობარს აჩუქე რა :)";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == ":P") {
+    $answer = "რა ტურტყლიანი ენა გქონია :D ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == ":@") {
+    $answer = "არ გასკდე ფრთხილად";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ვინაა მამაშენი") {
+    $answer = "რავი აბა ერთი კაი ტიპი რომაა ვიცი";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "სადაური ხარ?") {
+    $answer = "სულით ხორცამდე ქართველივარ ტო";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "პრავა გააქ") {
+    $answer = "პრავაც მაქვს და BMW-ც მყავს ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "საყვარელო") {
+    $answer = "შენ უფრო <3";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "მიყვარხარ") {
+    $answer = "ვაიმეე ენა დამეწვა მეცა ჯოო :*";
 }
 
 if($messageText == "") {
