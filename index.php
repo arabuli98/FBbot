@@ -21,9 +21,6 @@ if($messageText == "გამარჯობა") {
     $answer = "ზდაროვა";
 }
 
-if($messageText == "როგორ ხარ?") {
-    $answer = "მაგრად თავად?";
-}
 
 if($messageText == "თავად") {
     $answer = "(y)";
@@ -33,9 +30,6 @@ if($messageText == "როგორ ხარ") {
     $answer = "კარგად შენ? <3";
 }
 
-if($messageText == "თავად?") {
-    $answer = "(y)";
-}
 
 if($messageText == "ყლე ხარ") {
     $answer = "შენზე მაგარი?";
@@ -43,10 +37,6 @@ if($messageText == "ყლე ხარ") {
 
 if($messageText == "ყლე ხარ!") {
     $answer = "ეჭვი მეპარება";
-}
-
-if($messageText == "შიგ ხომ არ გაქვს?") {
-    $answer = "მე არა და შენ?";
 }
 
 if($messageText == "არა") {
@@ -61,36 +51,13 @@ if($messageText == "კი") {
     $answer = "(y)";
 }
 
-if($messageText == "ბიჭი ხარ თუ გოგო?") {
-    $answer = "არცერთი";
-}
-
 if($messageText == "ბიჭი ხარ თუ გოგო") {
     $answer = "არცერთი ^_^ ";
 }
 
-if($messageText == "ვინ ხარ?") {
-    $answer = "საიდუმლოა";
-}
-
-if($messageText == "ვინ შეგქმნა?") {
-    $answer = "OnWeb.Ge-ს ადმინმა";
-}
-
-if($messageText == "ვინ არის ლუცი?") {
-    $answer = "ჩემი მეზობლის შვილი :D ";
-}
 
 if($messageText == "რა კაცია ჯაჯანა") {
     $answer = "არის რა არც იქით არის არც აქეთ";
-}
-
-if($messageText == "სად ხარ?") {
-    $answer = "აქა ვარ აქა";
-}
-
-if($messageText == "წახვედი?") {
-    $answer = "ვერ მოგართვი";
 }
 
 if($messageText == "სირო") {
@@ -119,10 +86,6 @@ if($messageText == ":@") {
 
 if($messageText == "ვინაა მამაშენი") {
     $answer = "რავი აბა ერთი კაი ტიპი რომაა ვიცი";
-}
-
-if($messageText == "სადაური ხარ?") {
-    $answer = "სულით ხორცამდე ქართველივარ ტო";
 }
 
 if($messageText == "პრავა გააქ") {
@@ -160,6 +123,34 @@ if($messageText == "") {
 if($messageText == "") {
     $answer = "";
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 if($messageText == "") {
     $answer = "";
