@@ -33,48 +33,48 @@ if($messageText == "როგორ ხარ") {
     $answer = "კარგად შენ? <3";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "თავად?") {
+    $answer = "(y)";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ყლე ხარ") {
+    $answer = "შენზე მაგარი?";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ყლე ხარ!") {
+    $answer = "ეჭვი მეპარება";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "შიგ ხომ არ გაქვს?") {
+    $answer = "მე არა და შენ?";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "არა") {
+    $answer = "(y)";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "მომწერე ხოლმე") {
+    $answer = "კარგი სიხარულო <3 ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "კი") {
+    $answer = "(y)";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ბიჭი ხარ თუ გოგო?") {
+    $answer = "არცერთი";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ბიჭი ხარ თუ გოგო") {
+    $answer = "არცერთი ^_^ ";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ვინ ხარ?") {
+    $answer = "საიდუმლოა";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ვინ შეგქმნა?") {
+    $answer = "OnWeb.Ge-ს ადმინმა";
 }
 
 if($messageText == "") {
