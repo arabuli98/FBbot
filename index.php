@@ -104,20 +104,20 @@ if($messageText == "მეც არსად") {
     $answer = "კარგია ^_^";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "რავი") {
+    $answer = ":)";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ვირო") {
+    $answer = "ცენზურა დაიცავი ბრატ :)";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "კაი არ გაატრაკო") {
+    $answer = "ვინ ატრაკებს ბიჭო";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "შენ") {
+    $answer = "o.O";
 }
 
 if($messageText == "") {
@@ -235,8 +235,8 @@ if($messageText == "სად წახვედი?") {
     $answer = "მე არსად და შენ?";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "აქ ხარ?") {
+    $answer = "კი აბა როგორ?";
 }
 
 if($messageText == "") {
