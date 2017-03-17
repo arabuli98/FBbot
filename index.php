@@ -21,6 +21,14 @@ if($messageText == "გამარჯობა") {
     $answer = "ზდაროვა";
 }
 
+if($messageText == "როგორ ხარ?") {
+    $answer = "მაგრად თავად?";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
 $response = [
     'recipient' => [ 'id' => $senderId ],
     'message' => [ 'text' => $answer ]
