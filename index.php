@@ -16,9 +16,9 @@ $senderId = $input['entry'][0]['messaging'][0]['sender']['id'];
 $messageText = $input['entry'][0]['messaging'][0]['message']['text'];
 
 
-$answer = "I don't understand. Ask me 'hi'.";
-if($messageText == "hi") {
-    $answer = "Hello";
+$answer = "კაი ნუ ატრაკებ.";
+if($messageText == "გამარჯობა") {
+    $answer = "ზდაროვა";
 }
 
 $response = [
