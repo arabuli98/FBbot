@@ -100,6 +100,78 @@ if($messageText == "მიყვარხარ") {
     $answer = "ვაიმეე ენა დამეწვა მეცა ჯოო :*";
 }
 
+if($messageText == "მეც არსად") {
+    $answer = "კარგია ^_^";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
+if($messageText == "") {
+    $answer = "";
+}
+
 if($messageText == "") {
     $answer = "";
 }
@@ -151,17 +223,16 @@ if($messageText == "") {
 
 
 
-
-if($messageText == "") {
-    $answer = "";
+if($messageText == "როგორ ხარ?") {
+    $answer = "კარგად შენ?";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "რას შვრები?") {
+    $answer = "შენ გწერ <3";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "სად წახვედი?") {
+    $answer = "მე არსად და შენ?";
 }
 
 if($messageText == "") {
