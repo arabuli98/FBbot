@@ -120,8 +120,8 @@ if($messageText == "შენ") {
     $answer = "o.O";
 }
 
-if($messageText == "") {
-    $answer = "";
+if($messageText == "ფასკუნჯი აქა ხარ ძმაო") {
+    $answer = "მაშ მაშა";
 }
 
 if($messageText == "") {
